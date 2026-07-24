@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
+  </head>
+  <body>
+    <h1>My Python Web Page</h1>
+    
+    <script type="py" src="./script.py" config='{"files": ["./script.py"]}'></script>
+  </body>
+</html>
+
 # ==========================================
 # APLICAÇÃO DE REGISTO E LOGIN DE UTILIZADOR
 # ==========================================
